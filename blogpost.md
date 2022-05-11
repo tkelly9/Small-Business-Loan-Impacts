@@ -1,6 +1,6 @@
 ## Regression Models
 
-#### Univariate Linear Regression Models
+#### Univariate Linear Regression Model
 
 Linear Regression model and correlation matrix show that the number of full-time employees at the time of the loan closure is positively correlated with the number of jobs retained as a direct result of the loan.
 
