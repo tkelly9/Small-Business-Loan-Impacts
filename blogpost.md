@@ -4,10 +4,7 @@
 
 Linear Regression model and correlation matrix show that the number of full-time employees at the time of the loan closure is positively correlated with the number of jobs retained as a direct result of the loan.
 
-<img width="546" alt="Screen Shot 2022-05-10 at 5 03 26 PM" src="https://user-images.githubusercontent.com/74617235/167919683-07c3d9e4-8193-4ae9-ae5b-86c48ae0e41a.png"> 
-
-
-![Screen Shot 2022-05-10 at 3 40 03 PM (2)](https://user-images.githubusercontent.com/74617235/167709636-9e276e56-a06f-4cfa-8712-445de3a5b74d.png)
+<img width="546" alt="Screen Shot 2022-05-10 at 5 03 26 PM" src="https://user-images.githubusercontent.com/74617235/167709636-9e276e56-a06f-4cfa-8712-445de3a5b74d.png">  <img width="386" alt="Screen Shot 2022-05-10 at 5 03 26 PM" src="https://user-images.githubusercontent.com/74617235/167923638-a48f6805-7ebd-40ca-9929-034572ff6f15.png"> 
 
 
 R<sup>2</sup> Value: 0.597
