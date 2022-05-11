@@ -27,7 +27,14 @@ R<sup>2</sup> Value: 0.637
 * Support Vector Classifier
 * Gradient Boosting Classifier 
 
-### Shapley values were used for feature selection. Below are the Shapley values:
+### Model Metrics
+
+![Screen Shot 2022-05-10 at 4 20 31 PM (2)](https://user-images.githubusercontent.com/74617235/167715962-8da1a602-7f61-4b3b-bbfb-d760e8d4f809.png)
+
+Accuracy, Precision, Recall, and F1 score were used to determine which model had the best predictive performance. Based on the metrics listed, we selected the Gradient Boosting Classifier as the model to use when predicting whether jobs were created as a direct result of the loans.
+
+
+### Shapley values were used for feature selection for the Gradient Boosting Classifier. Below are the Shapley values:
 ![image](https://user-images.githubusercontent.com/74617235/167889123-769deb7d-9044-4ed9-b9ae-59bdb14e5f93.png)
 
 * Feature 0: Loan Investment Amount
@@ -36,9 +43,3 @@ R<sup>2</sup> Value: 0.637
 * Feature 3: SSBCI Original Funds
 * Feature 4: Jobs Retained
 * Feature 5: Concurrent Private Financing
-
-### Model Metrics
-
-![Screen Shot 2022-05-10 at 4 20 31 PM (2)](https://user-images.githubusercontent.com/74617235/167715962-8da1a602-7f61-4b3b-bbfb-d760e8d4f809.png)
-
-Accuracy, Precision, Recall, and F1 score were used to determine which model had the best predictive performance. Based on the metrics listed, we selected the Gradient Boosting Classifier as the model to use when predicting whether jobs were created as a direct result of the loans.
