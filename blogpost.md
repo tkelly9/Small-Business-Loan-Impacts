@@ -4,10 +4,16 @@
 
 Linear Regression model and correlation matrix show that the number of full-time employees at the time of the loan closure is positively correlated with the number of jobs retained as a direct result of the loan.
 
-<img width="546" alt="Screen Shot 2022-05-10 at 5 03 26 PM" src="https://user-images.githubusercontent.com/74617235/167709636-9e276e56-a06f-4cfa-8712-445de3a5b74d.png">  <img width="386" alt="Screen Shot 2022-05-10 at 5 03 26 PM" src="https://user-images.githubusercontent.com/74617235/167923638-a48f6805-7ebd-40ca-9929-034572ff6f15.png"> 
+#### Correlation Matrix with Variables Used in Regression Models
+ <img width="386" alt="Screen Shot 2022-05-14 at 7 29 16 PM" src="https://user-images.githubusercontent.com/74617235/168451276-3b1641a1-b1ce-41d1-a9cd-7d5e8504ab5c.png">
+ 
+
+Univariate Linear Regression model shows that the number of full-time employees at the time of the loan closure is positively correlated with the sum of jobs retained and created as a direct result of the loan.
+
+<img width="533" alt="Screen Shot 2022-05-14 at 7 56 17 PM" src="https://user-images.githubusercontent.com/74617235/168451831-60003fe0-f167-4425-9411-0519e000c37a.png">
 
 
-R<sup>2</sup> Value: 0.597
+R<sup>2</sup> Value: 0.603
 
 #### Multivariate Linear Regression Model
 
