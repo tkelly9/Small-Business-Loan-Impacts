@@ -8,7 +8,7 @@ Linear Regression model and correlation matrix show that the number of full-time
  <img width="386" alt="Screen Shot 2022-05-14 at 7 29 16 PM" src="https://user-images.githubusercontent.com/74617235/168451276-3b1641a1-b1ce-41d1-a9cd-7d5e8504ab5c.png">
  
 
-Univariate Linear Regression model shows that the number of full-time employees at the time of the loan closure is positively correlated with the sum of jobs retained and created as a direct result of the loan.
+#### Univariate Linear Regression model shows that the number of full-time employees at the time of the loan closure is positively correlated with the sum of jobs retained and created as a direct result of the loan.
 
 <img width="554" alt="Screen Shot 2022-05-14 at 8 09 19 PM" src="https://user-images.githubusercontent.com/74617235/168452062-eea63e15-7a4b-4f27-b18f-b151237978c2.png">
 
