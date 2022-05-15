@@ -36,6 +36,11 @@ R<sup>2</sup> Value: 0.647
 
 Accuracy, Precision, Recall, and F1 score were used to determine which model had the best predictive performance. Based on the metrics listed, we selected the Gradient Boosting Classifier as the model to use when predicting whether jobs were created as a direct result of the loans.
 
+### ROC Curves
+<img width="330" alt="Screen Shot 2022-05-15 at 11 05 26 AM" src="https://user-images.githubusercontent.com/74617235/168479772-303d6d65-99a0-403c-b372-779dbed8e75f.png"> <img width="330" alt="Screen Shot 2022-05-15 at 11 08 27 AM" src="https://user-images.githubusercontent.com/74617235/168479843-2c884418-49b8-4ab2-9aec-e6a114aa4b17.png"> <img width="330" alt="Screen Shot 2022-05-15 at 11 09 45 AM" src="https://user-images.githubusercontent.com/74617235/168479921-56e3d0ff-5ea5-4376-b942-905692f36a7c.png">
+
+
+
 
 ### Shapley values were used for feature selection for the Gradient Boosting Classifier. Below are the Shapley values:
 <img width="541" alt="Screen Shot 2022-05-14 at 10 12 07 PM" src="https://user-images.githubusercontent.com/74617235/168454328-ed63857d-de56-47d0-8e2a-85c53c5e41f5.png">
