@@ -2,7 +2,7 @@
 
 #### Univariate Linear Regression Model
 
-Linear Regression model and correlation matrix show that the number of full-time employees at the time of the loan closure is positively correlated with the number of jobs retained as a direct result of the loan.
+Linear Regression model and correlation matrix show that the number of full-time employees at the time of the loan closure is positively correlated with the number of jobs retained as a direct result of the loan. The target variable for the regression models is represented by the Job Benefit variable, which is the sum of Jobs Created and Jobs Retained as a result of the loan. The Job Benefit Variable represents the overall economic impact of the loan.
 
 #### Correlation Matrix with Variables Used in Regression Models
  <img width="386" alt="Screen Shot 2022-05-14 at 7 29 16 PM" src="https://user-images.githubusercontent.com/74617235/168451276-3b1641a1-b1ce-41d1-a9cd-7d5e8504ab5c.png">
