@@ -17,12 +17,11 @@ R<sup>2</sup> Value: 0.603
 
 #### Multivariate Linear Regression Model
 
-Multivariate linear regression model results indicate that SSBCI Original Funds, Concurrent Private Financing, Guaranteed Amount, Full Time Employees, and Jobs Created are the strongest predictors for the number of Jobs Retained. 
+Multivariate linear regression model results indicate that Full Time Employees, Metro Type, Community Development Financial Institutions (CDFI) Type, and SPY Stock Close price are the strongest predictors for the number of Jobs Retained. 
 
+<img width="794" alt="Screen Shot 2022-05-14 at 9 52 48 PM" src="https://user-images.githubusercontent.com/74617235/168453868-90be54ca-1630-4d74-a863-2b3f5b4a28b1.png">
 
-![Screen Shot 2022-05-10 at 4 17 36 PM (2)](https://user-images.githubusercontent.com/74617235/167714904-865bbd48-c168-4e5d-851f-e99e13841f17.png)
-
-R<sup>2</sup> Value: 0.637
+R<sup>2</sup> Value: 0.647
 
 ## Classification Models
 
